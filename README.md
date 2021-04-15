@@ -10,7 +10,7 @@ you can make a mini application by it and see how is it work.
 - write it on terminal ``` composer install ```
 - go to Packagist website and search for  **php-mvc-app**
 
-install package via composer 
+- install package via composer 
 ```
 composer require talhaouy/php-mvc-app
 
